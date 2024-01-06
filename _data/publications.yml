@@ -1,22 +1,78 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "ArtELingo: A Million Emotion Annotations of WikiArt with Emphasis on Diversity over Language and Culture"
+    authors: <strong>Youssef Mohamed</strong>, Mohamed Abdelfattah, Shyma Alhuwaider, Feifan Li, Xiangliang Zhang, Kenneth Ward Church, Mohamed Elhoseiny
+    conference_short: EMNLP
+    conference: International Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2211.10780.pdf
+    code: https://github.com/Vision-CAIR/artelingo
+    page: https://artelingo.org
+    bibtex: https://www.artelingo.org/#h.q6bs8yjn6rv5
+    image: ./assets/img/artelingo_teaser.png
+    # notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection"
+    authors: <strong>Youssef Mohamed</strong>, Faizan Farooq Khan, Kilichbek Haydarov, Mohamed Elhoseiny
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
+    pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Mohamed_It_Is_Okay_To_Not_Be_Okay_Overcoming_Emotional_Bias_CVPR_2022_paper.pdf
+    code: https://github.com/Vision-CAIR/artemis-v2
+    page: https://www.artemisdataset-v2.org/
+    bibtex: https://www.artemisdataset-v2.org/#h.q6bs8yjn6rv5
+    # notes: Oral Presentation
+    image: ./assets/img/artemis2.png
+
+  - title: "Interpretability in healthcare: A comparative study of local machine learning interpretability techniques"
+    authors: Radwa ElShawi, <strong>Youssef Mohamed</strong>, Mouaz Al‐Mallah, Sherif Sakr
+    conference_short: Journal
+    conference: International Journal on Computational Intelligence, Volume37, Issue4, 2021.
+    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/coin.12410
+    code: https://github.com/DataSystemsGroupUT/Interpretability-comparison
+    page: https://doi.org/10.1111/coin.12410
+    bibtex: https://doi.org/10.1111/coin.12410
+    # notes: Oral Presentation
+    image: ./assets/img/interpret.png
+
+  - title: "Did I do that? Blame as a means to identify controlled effects in reinforcement learning"
+    authors: Oriol Corcoll, <strong>Youssef Mohamed</strong>, Raul Vicente
+    conference_short: TMLR
+    conference: Transactions of Machine Learning Research (TMLR).
+    pdf: https://arxiv.org/pdf/2106.00266.pdf
+    # code: https://github.com/Vision-CAIR/artemis-v2
+    page: https://arxiv.org/abs/2106.00266
+    # bibtex: https://www.artemisdataset-v2.org/#h.q6bs8yjn6rv5
+    # notes: Oral Presentation
+    image: ./assets/img/dididothat.png
+
+  - title: "Modelling the Impact of Robotics on Infectious Spread Among Healthcare Workers"
+    authors: Raul Vicente, <strong>Youssef Mohamed</strong>, Victor M Eguíluz, Emal Zemmar, Patrick Bayer, Joseph S Neimat, Juha Hernesniemi, Bradley J Nelson, Ajmal Zemmar
+    conference_short: Frontiers
+    conference: Frontiers in Robotics and AI, Volume 8 - 2021
+    pdf: https://www.frontiersin.org/articles/10.3389/frobt.2021.652685/full
+    # code: https://github.com/Vision-CAIR/artemis-v2
+    page: https://www.frontiersin.org/articles/10.3389/frobt.2021.652685/full
+    # bibtex: https://www.artemisdataset-v2.org/#h.q6bs8yjn6rv5
+    # notes: Oral Presentation
+    image: ./assets/img/covid.png
+
+  - title: "Towards Automated Concept-based Decision Tree Explanations for CNNs"
+    authors: Radwa ElShawi, <strong>Youssef Mohamed</strong>, Sherif Sakr
+    conference_short: EDBT
+    conference: International Conference on Extending Database Technology <strong>(EDBT)</strong>, 2021.
+    pdf: https://edbt2021proceedings.github.io/docs/p251.pdf
+    code: https://github.com/DataSystemsGroupUT/ACDTE
+    page: https://datasystemsgrouput.github.io/ACDTE/
+    # bibtex: https://www.artemisdataset-v2.org/#h.q6bs8yjn6rv5
+    # notes: Oral Presentation
+    image: ./assets/img/acdte.png
+
+  - title: "ILIME: Local and Global Interpretable Model-Agnostic Explainer of Black-Box Decision"
+    authors: Radwa ElShawi, <strong>Youssef Mohamed</strong>, Mouaz Al‐Mallah, Sherif Sakr
+    conference_short: ADBIS
+    conference: European Conference on Advances in Databases and Information Systems <strong>(ADBIS)</strong>, 2019.
+    pdf: https://link.springer.com/content/pdf/10.1007/978-3-030-28730-6.pdf
+    # code: https://github.com/DataSystemsGroupUT/ACDTE
+    page: https://link.springer.com/chapter/10.1007/978-3-030-28730-6_4
+    # bibtex: https://www.artemisdataset-v2.org/#h.q6bs8yjn6rv5
+    # notes: Oral Presentation
+    image: ./assets/img/adbis.webp
