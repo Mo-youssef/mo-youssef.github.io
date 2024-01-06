@@ -32,5 +32,3 @@ Hello there! I'm a passionate machine learning researcher, currently working on 
 - **[Jun. 2019]** Our paper "Interpretability in Healthcare: A Comparative Study of Local Machine Learning Interpretability Techniques" was published in CBMS 2019. An extended version was published in the Journal of Computational Intelligence.
 
 {% include_relative _includes/publications.md %}
-
-<!-- {% include_relative _includes/services.md %} -->
