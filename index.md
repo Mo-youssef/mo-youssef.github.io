@@ -18,6 +18,7 @@ Hello there! I'm a passionate machine learning researcher, currently working on 
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+- **[Jan. 2024]** Our paper "Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained Computation" has been Accepted at ICLR 24.
 - **[Nov. 2023]** Our paper "Towards No Culture Left Behind: Large Scale Multilingual Affective Vision and Language Understanding" has been submitted to CVPR 24.
 - **[Oct. 2023]** I completed my Multimodal AI Internship at ELM, Riyadh.
 - **[Oct. 2023]** We organized the 1st Workshop On Emotionally And Culturally Intelligent AI (WECIA) at ICCV 23.

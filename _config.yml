@@ -6,14 +6,14 @@ email: youssef.mohamed (at) kaust.edu.sa
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Youssef Mohamed Mo-youssef KAUST Vision-CAIR
+description: Youssef Mohamed | PhD at KAUST.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=DtCLSdUAAAAJ
-cv_link: assets/files/CV.pdf
+cv_link: https://docs.google.com/document/d/1QdjH1yHuxLV3izEX4u2jcpyxNFM2T3N0K-TKbJa3bCs
 github_link: https://github.com/Mo-youssef
 linkedin: https://www.linkedin.com/in/youssef-sherif-mohamed/
 twitter: https://twitter.com/Youssef_SM_Moh
