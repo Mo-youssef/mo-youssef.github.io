@@ -12,6 +12,8 @@ Hello there! I'm a passionate machine learning researcher, currently working on 
 - **Affective Computing:** Emotion recognition and explanation in multimodal settings.
 - **Multimodal Deep Learning:** Integration of multiple data types, exploring how to combine different data sources effectively.
 
+{% include_relative _includes/publications.md %}
+
 ## News
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -34,4 +36,3 @@ Hello there! I'm a passionate machine learning researcher, currently working on 
 - **[Sept. 2019]** Our paper "ILIME: Local and Global Interpretable Model-Agnostic Explainer of Black-Box Decision" was published in ADBIS 2019.
 - **[Jun. 2019]** Our paper "Interpretability in Healthcare: A Comparative Study of Local Machine Learning Interpretability Techniques" was published in CBMS 2019. An extended version was published in the Journal of Computational Intelligence.
 
-{% include_relative _includes/publications.md %}
