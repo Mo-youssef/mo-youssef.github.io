@@ -4,8 +4,8 @@ main:
     authors: <strong>Youssef Mohamed</strong>, Runjia Li, Ibrahim Said Ahmad, Kilichbek Haydarov, Philip Torr, Kenneth Ward Church, Mohamed Elhoseiny
     conference_short: EMNLP
     conference: International Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2211.10780.pdf
-    code: https://github.com/Vision-CAIR/artelingo
+    pdf: https://arxiv.org/abs/2411.03769
+    code: https://github.com/Mo-youssef/artelingo-28
     page: https://artelingo.org
     bibtex: https://www.artelingo.org/#h.q6bs8yjn6rv5
     image: ./assets/img/nclb.png
